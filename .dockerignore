@@ -4,3 +4,7 @@ dist
 .env
 .env.*
 *.log
+.vscode/
+scripts/
+*.md
+!README.md

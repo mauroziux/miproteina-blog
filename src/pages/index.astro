@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import categoriesData from '../data/categories.json';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -56,8 +57,8 @@ const rest = posts.slice(1);
         Todos
       </a>
       {categories.slice(0, 8).map((cat) => {
-        // Derive slug from category name
-        const catSlug = cat.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+        const catData = categoriesData.find(c => c.name === cat);
+        const catSlug = catData?.slug || cat.toLowerCase().replace(/\s+/g, '-');
         return (
           <a
             href={`/category/${catSlug}`}

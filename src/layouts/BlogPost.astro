@@ -17,11 +17,18 @@ type Props = {
 };
 
 const { title, description, pubDate, updatedDate, heroImage, category, tags, author } = Astro.props;
+
+const ogImage = heroImage
+  ? (typeof heroImage === 'string'
+    ? (heroImage.startsWith('http') ? heroImage : `https://cdn.miproteina.com.co${heroImage}`)
+    : undefined)
+  : undefined;
 ---
 
+<!doctype html>
 <html lang="es">
   <head>
-    <BaseHead title={title} description={description} />
+    <BaseHead title={title} description={description} ogImage={ogImage} type="article" />
     <style>
       main {
         width: 100%;

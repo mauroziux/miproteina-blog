@@ -310,7 +310,7 @@ async function main() {
 
     const mdxContent = lines.join('\n') + body;
 
-    const filePath = join(CONTENT_DIR, `${slug}.mdx`);
+    const filePath = join(CONTENT_DIR, `${slug}.md`);
     writeFileSync(filePath, mdxContent, 'utf-8');
 
     urlMap.push({
