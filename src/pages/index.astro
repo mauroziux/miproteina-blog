@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE, CDN_URL } from '../consts';
 import categoriesData from '../data/categories.json';
 
 const posts = (await getCollection('blog')).sort(
@@ -26,7 +26,7 @@ const rest = posts.slice(1);
           {featured.data.heroImage && (
             <img
               src={typeof featured.data.heroImage === 'string'
-                ? featured.data.heroImage
+                ? `${CDN_URL}${featured.data.heroImage}`
                 : featured.data.heroImage.src}
               alt={featured.data.title}
               class="w-full h-64 md:h-96 object-cover transition-transform duration-300 group-hover:scale-105"
