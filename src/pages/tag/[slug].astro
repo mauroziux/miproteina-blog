@@ -5,7 +5,8 @@ import PostCard from '../../components/PostCard.astro';
 import tagsData from '../../data/tags.json';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const now = new Date();
+  const posts = (await getCollection('blog')).filter((post) => post.data.pubDate <= now);
   // Collect all unique tag names across all posts
   const allTags = new Set();
   posts.forEach((p) => p.data.tags.forEach((t) => allTags.add(t)));

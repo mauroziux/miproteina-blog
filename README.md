@@ -54,6 +54,17 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+## Weekly auto deploy
+
+This project includes `.github/workflows/weekly-deploy.yml`.
+
+- Schedule: every Monday at 12:55 UTC (07:55 Colombia, UTC-5)
+- Trigger: sends a POST request to Coolify deploy webhook
+
+Required GitHub secret:
+
+- `COOLIFY_DEPLOY_WEBHOOK`: deploy webhook URL from Coolify
+
 ## 👀 Want to learn more?
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).

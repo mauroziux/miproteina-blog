@@ -5,9 +5,10 @@ import PostCard from '../components/PostCard.astro';
 import { SITE_DESCRIPTION, SITE_TITLE, CDN_URL } from '../consts';
 import categoriesData from '../data/categories.json';
 
-const posts = (await getCollection('blog')).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const now = new Date();
+const posts = (await getCollection('blog'))
+  .filter((post) => post.data.pubDate <= now)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 // Get unique categories for the nav
 const categories = [...new Set(posts.map((p) => p.data.category))];
@@ -51,7 +52,7 @@ const rest = posts.slice(1);
   )}
 
   <!-- Category pills -->
-  <section class="max-w-5xl mx-auto px-4 pb-6">
+  <section id="categorias" class="max-w-5xl mx-auto px-4 pb-6 scroll-mt-24">
     <div class="flex flex-wrap gap-2">
       <a href="/" class="px-4 py-1.5 rounded-full text-sm font-medium bg-[var(--color-brand-black)] text-white">
         Todos

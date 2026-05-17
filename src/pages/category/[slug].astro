@@ -5,7 +5,8 @@ import PostCard from '../../components/PostCard.astro';
 import categories from '../../data/categories.json';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const now = new Date();
+  const posts = (await getCollection('blog')).filter((post) => post.data.pubDate <= now);
   const categoryNames = [...new Set(posts.map((p) => p.data.category))];
   return categoryNames.map((cat) => {
     const catPosts = posts.filter((p) => p.data.category === cat);

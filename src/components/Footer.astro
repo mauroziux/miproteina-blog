@@ -3,6 +3,10 @@ const today = new Date();
 ---
 
 <footer>
+	<div class="brand-lockup">
+		<img src="/brand/miproteina-logo.png" alt="Logo Mi Proteina" width="34" height="34" loading="lazy" />
+		<strong>Mi Proteina</strong>
+	</div>
 	&copy; {today.getFullYear()} Mi Proteína. Todos los derechos reservados.
 	<div class="social-links">
 		<a href="https://www.instagram.com/miproteina.co/" target="_blank">
@@ -31,6 +35,18 @@ const today = new Date();
 		background: linear-gradient(to bottom, rgba(229, 233, 240, 0.5), #fff) no-repeat;
 		color: var(--color-brand-gray-500);
 		text-align: center;
+	}
+	.brand-lockup {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.45rem;
+		margin-bottom: 0.75rem;
+		font-size: 0.9rem;
+		color: var(--color-brand-gray-900);
+	}
+	.brand-lockup img {
+		border-radius: 0.35rem;
+		border: 1px solid var(--color-brand-gray-200);
 	}
 	.social-links {
 		display: flex;

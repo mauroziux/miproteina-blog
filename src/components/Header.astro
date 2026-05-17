@@ -3,73 +3,178 @@ import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
-<header>
-	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
-		<div class="internal-links">
-			<HeaderLink href="/">Inicio</HeaderLink>
-			<HeaderLink href="https://miproteina.com.co" target="_blank">Tienda</HeaderLink>
-		</div>
-		<div class="social-links">
-			<a href="https://www.instagram.com/miproteina.co/" target="_blank">
-				<span class="sr-only">Síguenos en Instagram</span>
-				<svg viewBox="0 0 24 24" aria-hidden="true" width="28" height="28"
-					><path
-						fill="currentColor"
-						d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"
-					></path></svg
-				>
-			</a>
-			<a href="https://www.facebook.com/miproteina.co/" target="_blank">
-				<span class="sr-only">Síguenos en Facebook</span>
-				<svg viewBox="0 0 24 24" aria-hidden="true" width="28" height="28"
-					><path
-						fill="currentColor"
-						d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"
-					></path></svg
-				>
-			</a>
-		</div>
-	</nav>
-</header>
-<style>
-	header {
-		margin: 0;
-		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-	}
-	h2 {
-		margin: 0;
-		font-size: 1em;
-	}
+<header class="site-header">
+  <nav class="site-nav">
+    <a href="/" class="brand">
+      <img class="brand-logo" src="/brand/miproteina-logo.png" alt="Logo Mi Proteina" width="44" height="44" loading="eager" />
+      <span class="brand-text">
+        <strong>{SITE_TITLE}</strong>
+        <small>Nutricion y entrenamiento real</small>
+      </span>
+    </a>
 
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
-	}
-	nav {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-	}
-	nav a {
-		padding: 1em 0.5em;
-		color: var(--color-brand-black);
-		border-bottom: 4px solid transparent;
-		text-decoration: none;
-	}
-	nav a.active {
-		text-decoration: none;
-		border-bottom-color: var(--color-primary);
-	}
-	.social-links,
-	.social-links a {
-		display: flex;
-	}
-	@media (max-width: 720px) {
-		.social-links {
-			display: none;
-		}
-	}
+    <div class="internal-links">
+      <HeaderLink href="/">Inicio</HeaderLink>
+      <a href="/#categorias">Categorias</a>
+      <HeaderLink href="https://miproteina.com.co" target="_blank" rel="noopener noreferrer">Tienda</HeaderLink>
+    </div>
+
+    <div class="social-links">
+      <a href="https://www.instagram.com/miproteina.co/" target="_blank" rel="noopener noreferrer">
+        <span class="sr-only">Siguenos en Instagram</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true" width="24" height="24"><path fill="currentColor" d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"></path></svg>
+      </a>
+      <a href="https://www.facebook.com/miproteina.co/" target="_blank" rel="noopener noreferrer">
+        <span class="sr-only">Siguenos en Facebook</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true" width="24" height="24"><path fill="currentColor" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path></svg>
+      </a>
+    </div>
+
+    <a class="cta" href="https://miproteina.com.co" target="_blank" rel="noopener noreferrer">Comprar ahora</a>
+  </nav>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    margin: 0;
+    padding: 0.65rem 1rem;
+    background: rgba(255, 255, 255, 0.94);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--color-brand-gray-200);
+  }
+
+  .site-nav {
+    max-width: 1120px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 1fr auto auto;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    text-decoration: none;
+    color: var(--color-brand-black);
+  }
+
+  .brand-logo {
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 0.45rem;
+    object-fit: cover;
+    border: 1px solid var(--color-brand-gray-200);
+    background: #fff;
+  }
+
+  .brand-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.1;
+  }
+
+  .brand-text strong {
+    font-size: 0.93rem;
+  }
+
+  .brand-text small {
+    font-size: 0.68rem;
+    color: var(--color-brand-gray-500);
+  }
+
+  .internal-links {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.8rem;
+    justify-self: end;
+  }
+
+  .internal-links a {
+    padding: 0.45rem 0.5rem;
+    font-size: 0.9rem;
+    color: var(--color-brand-gray-900);
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+  }
+
+  .internal-links a:hover,
+  .internal-links a.active {
+    color: var(--color-primary);
+    border-bottom-color: var(--color-primary);
+  }
+
+  .social-links,
+  .social-links a {
+    display: flex;
+  }
+
+  .social-links {
+    gap: 0.45rem;
+  }
+
+  .social-links a {
+    color: var(--color-brand-gray-500);
+  }
+
+  .social-links a:hover {
+    color: var(--color-primary);
+  }
+
+  .cta {
+    padding: 0.5rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(135deg, var(--color-primary), var(--color-primary-dark));
+  }
+
+  .cta:hover {
+    filter: brightness(1.04);
+  }
+
+  @media (max-width: 900px) {
+    .site-nav {
+      grid-template-columns: auto 1fr auto;
+    }
+
+    .cta {
+      display: none;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .site-header {
+      padding: 0.55rem 0.75rem;
+    }
+
+    .site-nav {
+      grid-template-columns: 1fr;
+      gap: 0.55rem;
+    }
+
+    .brand {
+      justify-self: start;
+    }
+
+    .internal-links {
+      justify-self: start;
+      gap: 0.45rem;
+    }
+
+    .internal-links a {
+      padding: 0.35rem 0.45rem;
+      font-size: 0.85rem;
+    }
+
+    .social-links {
+      display: none;
+    }
+  }
 </style>
