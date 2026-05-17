@@ -1,0 +1,740 @@
+[
+  {
+    "id": 68,
+    "name": "abdomen",
+    "slug": "abdomen",
+    "count": 7
+  },
+  {
+    "id": 64,
+    "name": "accidente deportivo",
+    "slug": "accidente-deportivo",
+    "count": 4
+  },
+  {
+    "id": 12,
+    "name": "Alimentación",
+    "slug": "alimentacion",
+    "count": 0
+  },
+  {
+    "id": 142,
+    "name": "alimentos para gluteos",
+    "slug": "alimentos-para-gluteos",
+    "count": 1
+  },
+  {
+    "id": 128,
+    "name": "Arnold Classic",
+    "slug": "arnold-classic",
+    "count": 1
+  },
+  {
+    "id": 129,
+    "name": "Arnold schwarzenegger",
+    "slug": "arnold-schwarzenegger",
+    "count": 1
+  },
+  {
+    "id": 127,
+    "name": "Arnold Sports",
+    "slug": "arnold-sports",
+    "count": 1
+  },
+  {
+    "id": 126,
+    "name": "atleta",
+    "slug": "atleta",
+    "count": 1
+  },
+  {
+    "id": 138,
+    "name": "aumento de cola",
+    "slug": "aumento-de-cola",
+    "count": 1
+  },
+  {
+    "id": 140,
+    "name": "aumento de pompa",
+    "slug": "aumento-de-pompa",
+    "count": 1
+  },
+  {
+    "id": 107,
+    "name": "ayuno",
+    "slug": "ayuno",
+    "count": 1
+  },
+  {
+    "id": 47,
+    "name": "azucares simples",
+    "slug": "azucares-simples",
+    "count": 1
+  },
+  {
+    "id": 82,
+    "name": "bajar de peso",
+    "slug": "bajar-de-peso",
+    "count": 4
+  },
+  {
+    "id": 149,
+    "name": "bajar peso con pepino",
+    "slug": "bajar-peso-con-pepino",
+    "count": 1
+  },
+  {
+    "id": 154,
+    "name": "bebida energetica",
+    "slug": "bebida-energetica",
+    "count": 1
+  },
+  {
+    "id": 147,
+    "name": "beneficios del pepino",
+    "slug": "beneficios-del-pepino",
+    "count": 1
+  },
+  {
+    "id": 166,
+    "name": "beneficios exclusivos",
+    "slug": "beneficios-exclusivos",
+    "count": 1
+  },
+  {
+    "id": 106,
+    "name": "cafeína",
+    "slug": "cafeina",
+    "count": 1
+  },
+  {
+    "id": 46,
+    "name": "carbohidratos",
+    "slug": "carbohidratos",
+    "count": 2
+  },
+  {
+    "id": 13,
+    "name": "Cardio hit",
+    "slug": "cardio-hit",
+    "count": 0
+  },
+  {
+    "id": 167,
+    "name": "cashback miproteina",
+    "slug": "cashback-miproteina",
+    "count": 1
+  },
+  {
+    "id": 136,
+    "name": "celulitis",
+    "slug": "celulitis",
+    "count": 1
+  },
+  {
+    "id": 133,
+    "name": "comparte con papa",
+    "slug": "comparte-con-papa",
+    "count": 1
+  },
+  {
+    "id": 113,
+    "name": "Competencia",
+    "slug": "competencia",
+    "count": 1
+  },
+  {
+    "id": 52,
+    "name": "Creatina Micronizada",
+    "slug": "creatina-micronizada",
+    "count": 2
+  },
+  {
+    "id": 51,
+    "name": "Creatina Monohidratada",
+    "slug": "creatina-monohidratada",
+    "count": 5
+  },
+  {
+    "id": 105,
+    "name": "cuida tu piel",
+    "slug": "cuida-tu-piel",
+    "count": 1
+  },
+  {
+    "id": 59,
+    "name": "Cuida tu salud",
+    "slug": "cuida-tu-salud",
+    "count": 16
+  },
+  {
+    "id": 71,
+    "name": "cuidado de la piel",
+    "slug": "cuidado-de-la-piel",
+    "count": 5
+  },
+  {
+    "id": 49,
+    "name": "culturismo",
+    "slug": "culturismo",
+    "count": 7
+  },
+  {
+    "id": 60,
+    "name": "Daño muscular",
+    "slug": "dano-muscular",
+    "count": 4
+  },
+  {
+    "id": 144,
+    "name": "deficit calorico",
+    "slug": "deficit-calorico",
+    "count": 1
+  },
+  {
+    "id": 143,
+    "name": "defict",
+    "slug": "defict",
+    "count": 1
+  },
+  {
+    "id": 69,
+    "name": "definición muscular",
+    "slug": "definicion-muscular",
+    "count": 13
+  },
+  {
+    "id": 11,
+    "name": "Deportes",
+    "slug": "deportes",
+    "count": 4
+  },
+  {
+    "id": 155,
+    "name": "deportes extremos",
+    "slug": "deportes-extremos",
+    "count": 1
+  },
+  {
+    "id": 114,
+    "name": "deportista",
+    "slug": "deportista",
+    "count": 1
+  },
+  {
+    "id": 168,
+    "name": "descuentos",
+    "slug": "descuentos",
+    "count": 1
+  },
+  {
+    "id": 130,
+    "name": "dia del padre",
+    "slug": "dia-del-padre",
+    "count": 1
+  },
+  {
+    "id": 25,
+    "name": "diabetes",
+    "slug": "diabetes",
+    "count": 2
+  },
+  {
+    "id": 15,
+    "name": "Dietas",
+    "slug": "dietas",
+    "count": 11
+  },
+  {
+    "id": 156,
+    "name": "dymatize",
+    "slug": "dymatize",
+    "count": 1
+  },
+  {
+    "id": 158,
+    "name": "dymatize en colombia",
+    "slug": "dymatize-en-colombia",
+    "count": 1
+  },
+  {
+    "id": 10,
+    "name": "Ejercicio",
+    "slug": "ejercicio",
+    "count": 9
+  },
+  {
+    "id": 39,
+    "name": "ejercicios de alto rendimiento",
+    "slug": "ejercicios-de-alto-rendimiento",
+    "count": 20
+  },
+  {
+    "id": 116,
+    "name": "emprendimiento",
+    "slug": "emprendimiento",
+    "count": 1
+  },
+  {
+    "id": 153,
+    "name": "energy drink",
+    "slug": "energy-drink",
+    "count": 1
+  },
+  {
+    "id": 123,
+    "name": "etapa de volumen",
+    "slug": "etapa-de-volumen",
+    "count": 2
+  },
+  {
+    "id": 124,
+    "name": "fisiculturismo",
+    "slug": "fisiculturismo",
+    "count": 1
+  },
+  {
+    "id": 37,
+    "name": "fitness",
+    "slug": "fitness",
+    "count": 22
+  },
+  {
+    "id": 62,
+    "name": "fractura",
+    "slug": "fractura",
+    "count": 2
+  },
+  {
+    "id": 16,
+    "name": "Fuerza",
+    "slug": "fuerza",
+    "count": 0
+  },
+  {
+    "id": 164,
+    "name": "gamify miproteina",
+    "slug": "gamify-miproteina",
+    "count": 1
+  },
+  {
+    "id": 43,
+    "name": "glucosa",
+    "slug": "glucosa",
+    "count": 1
+  },
+  {
+    "id": 83,
+    "name": "glutamina",
+    "slug": "glutamina",
+    "count": 1
+  },
+  {
+    "id": 137,
+    "name": "gluteos",
+    "slug": "gluteos",
+    "count": 1
+  },
+  {
+    "id": 36,
+    "name": "gym",
+    "slug": "gym",
+    "count": 3
+  },
+  {
+    "id": 53,
+    "name": "Hcl",
+    "slug": "hcl",
+    "count": 1
+  },
+  {
+    "id": 104,
+    "name": "hidratacion",
+    "slug": "hidratacion",
+    "count": 1
+  },
+  {
+    "id": 91,
+    "name": "insulina",
+    "slug": "insulina",
+    "count": 1
+  },
+  {
+    "id": 157,
+    "name": "iso 100",
+    "slug": "iso-100",
+    "count": 1
+  },
+  {
+    "id": 61,
+    "name": "lesiones musculares",
+    "slug": "lesiones-musculares",
+    "count": 4
+  },
+  {
+    "id": 65,
+    "name": "limites musculares",
+    "slug": "limites-musculares",
+    "count": 1
+  },
+  {
+    "id": 29,
+    "name": "masa muscular",
+    "slug": "masa-muscular",
+    "count": 20
+  },
+  {
+    "id": 101,
+    "name": "mejor suplemento",
+    "slug": "mejor-suplemento",
+    "count": 1
+  },
+  {
+    "id": 28,
+    "name": "mejora tu salud",
+    "slug": "mejora-tu-salud",
+    "count": 19
+  },
+  {
+    "id": 103,
+    "name": "metabolismo",
+    "slug": "metabolismo",
+    "count": 5
+  },
+  {
+    "id": 117,
+    "name": "mi proteina",
+    "slug": "mi-proteina",
+    "count": 1
+  },
+  {
+    "id": 119,
+    "name": "miproteina armenia",
+    "slug": "miproteina-armenia",
+    "count": 1
+  },
+  {
+    "id": 118,
+    "name": "miproteina bogota",
+    "slug": "miproteina-bogota",
+    "count": 1
+  },
+  {
+    "id": 165,
+    "name": "miproteina.com.co",
+    "slug": "miproteina-com-co",
+    "count": 1
+  },
+  {
+    "id": 70,
+    "name": "músculos tonificados",
+    "slug": "musculos-tonificados",
+    "count": 11
+  },
+  {
+    "id": 92,
+    "name": "niveles de azucar",
+    "slug": "niveles-de-azucar",
+    "count": 1
+  },
+  {
+    "id": 171,
+    "name": "Nutriversum",
+    "slug": "nutriversum",
+    "count": 1
+  },
+  {
+    "id": 160,
+    "name": "optimum nutrition",
+    "slug": "optimum-nutrition",
+    "count": 1
+  },
+  {
+    "id": 148,
+    "name": "para que sirve el pepino",
+    "slug": "para-que-sirve-el-pepino",
+    "count": 1
+  },
+  {
+    "id": 63,
+    "name": "pausa deportiva",
+    "slug": "pausa-deportiva",
+    "count": 1
+  },
+  {
+    "id": 146,
+    "name": "pepino",
+    "slug": "pepino",
+    "count": 1
+  },
+  {
+    "id": 79,
+    "name": "perdida de grasa",
+    "slug": "perdida-de-grasa",
+    "count": 8
+  },
+  {
+    "id": 80,
+    "name": "peso",
+    "slug": "peso",
+    "count": 3
+  },
+  {
+    "id": 34,
+    "name": "Pre entreno",
+    "slug": "pre-entreno",
+    "count": 2
+  },
+  {
+    "id": 35,
+    "name": "Pre workout",
+    "slug": "pre-workout",
+    "count": 4
+  },
+  {
+    "id": 67,
+    "name": "precursores",
+    "slug": "precursores",
+    "count": 1
+  },
+  {
+    "id": 87,
+    "name": "proteína de soya",
+    "slug": "proteina-de-soya",
+    "count": 1
+  },
+  {
+    "id": 88,
+    "name": "proteína de suero",
+    "slug": "proteina-de-suero",
+    "count": 1
+  },
+  {
+    "id": 159,
+    "name": "proteina iso",
+    "slug": "proteina-iso",
+    "count": 1
+  },
+  {
+    "id": 26,
+    "name": "proteína limpia",
+    "slug": "proteina-limpia",
+    "count": 4
+  },
+  {
+    "id": 75,
+    "name": "proteína vegana",
+    "slug": "proteina-vegana",
+    "count": 2
+  },
+  {
+    "id": 14,
+    "name": "Proteinas",
+    "slug": "proteinas",
+    "count": 4
+  },
+  {
+    "id": 172,
+    "name": "Proteinas Europeas",
+    "slug": "proteinas-europeas",
+    "count": 1
+  },
+  {
+    "id": 121,
+    "name": "pure bulk",
+    "slug": "pure-bulk",
+    "count": 1
+  },
+  {
+    "id": 122,
+    "name": "pure gainer",
+    "slug": "pure-gainer",
+    "count": 1
+  },
+  {
+    "id": 135,
+    "name": "que regalarle a papa",
+    "slug": "que-regalarle-a-papa",
+    "count": 1
+  },
+  {
+    "id": 54,
+    "name": "quemadores de grasa",
+    "slug": "quemadores-de-grasa",
+    "count": 4
+  },
+  {
+    "id": 150,
+    "name": "rebaja con agua de pepino",
+    "slug": "rebaja-con-agua-de-pepino",
+    "count": 1
+  },
+  {
+    "id": 84,
+    "name": "recuperación celular",
+    "slug": "recuperacion-celular",
+    "count": 1
+  },
+  {
+    "id": 85,
+    "name": "recuperación post operatoria",
+    "slug": "recuperacion-post-operatoria",
+    "count": 1
+  },
+  {
+    "id": 152,
+    "name": "redbull",
+    "slug": "redbull",
+    "count": 1
+  },
+  {
+    "id": 78,
+    "name": "reduccion de medidas",
+    "slug": "reduccion-de-medidas",
+    "count": 11
+  },
+  {
+    "id": 132,
+    "name": "regalos para papa",
+    "slug": "regalos-para-papa",
+    "count": 1
+  },
+  {
+    "id": 38,
+    "name": "rendimiento",
+    "slug": "rendimiento",
+    "count": 3
+  },
+  {
+    "id": 109,
+    "name": "rutina de gluteos",
+    "slug": "rutina-de-gluteos",
+    "count": 1
+  },
+  {
+    "id": 110,
+    "name": "rutina en casa",
+    "slug": "rutina-en-casa",
+    "count": 1
+  },
+  {
+    "id": 72,
+    "name": "salud mental",
+    "slug": "salud-mental",
+    "count": 1
+  },
+  {
+    "id": 108,
+    "name": "sascha fitness",
+    "slug": "sascha-fitness",
+    "count": 1
+  },
+  {
+    "id": 125,
+    "name": "sindrome de down",
+    "slug": "sindrome-de-down",
+    "count": 1
+  },
+  {
+    "id": 111,
+    "name": "stay at home",
+    "slug": "stay-at-home",
+    "count": 1
+  },
+  {
+    "id": 9,
+    "name": "Suplementación",
+    "slug": "suplementacion",
+    "count": 22
+  },
+  {
+    "id": 100,
+    "name": "suplementos de calidad",
+    "slug": "suplementos-de-calidad",
+    "count": 1
+  },
+  {
+    "id": 102,
+    "name": "suplementos originales",
+    "slug": "suplementos-originales",
+    "count": 1
+  },
+  {
+    "id": 139,
+    "name": "suplementos para gluteos",
+    "slug": "suplementos-para-gluteos",
+    "count": 2
+  },
+  {
+    "id": 134,
+    "name": "suplementos para padres",
+    "slug": "suplementos-para-padres",
+    "count": 1
+  },
+  {
+    "id": 74,
+    "name": "suplementos veganos",
+    "slug": "suplementos-veganos",
+    "count": 1
+  },
+  {
+    "id": 112,
+    "name": "Tom Hardy",
+    "slug": "tom-hardy",
+    "count": 1
+  },
+  {
+    "id": 81,
+    "name": "tonificacion",
+    "slug": "tonificacion",
+    "count": 2
+  },
+  {
+    "id": 55,
+    "name": "tonificar el cuerpo",
+    "slug": "tonificar-el-cuerpo",
+    "count": 12
+  },
+  {
+    "id": 141,
+    "name": "tonificar gluteos",
+    "slug": "tonificar-gluteos",
+    "count": 1
+  },
+  {
+    "id": 115,
+    "name": "venom",
+    "slug": "venom",
+    "count": 1
+  },
+  {
+    "id": 145,
+    "name": "vida fit",
+    "slug": "vida-fit",
+    "count": 1
+  },
+  {
+    "id": 131,
+    "name": "vida fitness",
+    "slug": "vida-fitness",
+    "count": 3
+  },
+  {
+    "id": 161,
+    "name": "whey gold standard",
+    "slug": "whey-gold-standard",
+    "count": 1
+  },
+  {
+    "id": 27,
+    "name": "whey protein",
+    "slug": "whey-protein",
+    "count": 1
+  },
+  {
+    "id": 162,
+    "name": "whey protein standard",
+    "slug": "whey-protein-standard",
+    "count": 1
+  }
+]

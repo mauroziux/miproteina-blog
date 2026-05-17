@@ -3,7 +3,7 @@ const today = new Date();
 ---
 
 <footer>
-	&copy; {today.getFullYear()} Your name here. All rights reserved.
+	&copy; {today.getFullYear()} Mi Proteína. Todos los derechos reservados.
 	<div class="social-links">
 		<a href="https://m.webtoo.ls/@astro" target="_blank">
 			<span class="sr-only">Follow Astro on Mastodon</span>
@@ -42,8 +42,8 @@ const today = new Date();
 <style>
 	footer {
 		padding: 2em 1em 6em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+		background: linear-gradient(to bottom, rgba(229, 233, 240, 0.5), #fff) no-repeat;
+		color: var(--color-brand-gray-500);
 		text-align: center;
 	}
 	.social-links {
@@ -54,9 +54,9 @@ const today = new Date();
 	}
 	.social-links a {
 		text-decoration: none;
-		color: rgb(var(--gray));
+		color: var(--color-brand-gray-500);
 	}
 	.social-links a:hover {
-		color: rgb(var(--gray-dark));
+		color: var(--color-brand-gray-900);
 	}
 </style>

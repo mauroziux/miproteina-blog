@@ -1,0 +1,212 @@
+[
+  {
+    "id": 57,
+    "name": "Actividad Fisica",
+    "slug": "actividad-fisica",
+    "count": 10,
+    "parent": 0
+  },
+  {
+    "id": 41,
+    "name": "Alimentos Saludables",
+    "slug": "alimentos-saludables",
+    "count": 9,
+    "parent": 0
+  },
+  {
+    "id": 33,
+    "name": "Alto Rendimiento",
+    "slug": "alto-rendimiento",
+    "count": 9,
+    "parent": 0
+  },
+  {
+    "id": 97,
+    "name": "Aminoácidos",
+    "slug": "aminoacidos",
+    "count": 3,
+    "parent": 0
+  },
+  {
+    "id": 96,
+    "name": "Anticatabolizante",
+    "slug": "anticatabolizante",
+    "count": 1,
+    "parent": 0
+  },
+  {
+    "id": 2,
+    "name": "Ayunos",
+    "slug": "ayunos",
+    "count": 1,
+    "parent": 0
+  },
+  {
+    "id": 170,
+    "name": "BORRADOR",
+    "slug": "borrador",
+    "count": 0,
+    "parent": 0
+  },
+  {
+    "id": 48,
+    "name": "Creatina",
+    "slug": "creatina",
+    "count": 4,
+    "parent": 0
+  },
+  {
+    "id": 90,
+    "name": "Cuidado muscular",
+    "slug": "cuidado-muscular",
+    "count": 5,
+    "parent": 0
+  },
+  {
+    "id": 22,
+    "name": "Diabeticos",
+    "slug": "diabeticos",
+    "count": 1,
+    "parent": 0
+  },
+  {
+    "id": 98,
+    "name": "Dietas y Recetas",
+    "slug": "dietas-y-recetas",
+    "count": 11,
+    "parent": 0
+  },
+  {
+    "id": 120,
+    "name": "Ganar masa muscular",
+    "slug": "ganar-masa-muscular",
+    "count": 4,
+    "parent": 0
+  },
+  {
+    "id": 40,
+    "name": "Glucosa",
+    "slug": "glucosa",
+    "count": 0,
+    "parent": 0
+  },
+  {
+    "id": 95,
+    "name": "Glutamina",
+    "slug": "glutamina",
+    "count": 1,
+    "parent": 0
+  },
+  {
+    "id": 58,
+    "name": "Lesiones",
+    "slug": "lesiones",
+    "count": 2,
+    "parent": 0
+  },
+  {
+    "id": 24,
+    "name": "Masa Magra",
+    "slug": "masa-magra",
+    "count": 1,
+    "parent": 0
+  },
+  {
+    "id": 21,
+    "name": "Perdida de grasa",
+    "slug": "perdida-de-grasa",
+    "count": 10,
+    "parent": 0
+  },
+  {
+    "id": 30,
+    "name": "Pre entreno",
+    "slug": "pre-entreno",
+    "count": 2,
+    "parent": 0
+  },
+  {
+    "id": 66,
+    "name": "Precursores",
+    "slug": "precursores",
+    "count": 2,
+    "parent": 0
+  },
+  {
+    "id": 163,
+    "name": "Premios exclusivos",
+    "slug": "premios-exclusivos",
+    "count": 2,
+    "parent": 0
+  },
+  {
+    "id": 93,
+    "name": "Productos originales",
+    "slug": "productos-originales",
+    "count": 5,
+    "parent": 0
+  },
+  {
+    "id": 23,
+    "name": "Proteínas Limpias",
+    "slug": "proteinas-limpias",
+    "count": 4,
+    "parent": 0
+  },
+  {
+    "id": 77,
+    "name": "Quemadores",
+    "slug": "quemador",
+    "count": 2,
+    "parent": 0
+  },
+  {
+    "id": 3,
+    "name": "Rutinas y Ejercicios",
+    "slug": "ejercicios",
+    "count": 9,
+    "parent": 0
+  },
+  {
+    "id": 99,
+    "name": "Salud",
+    "slug": "salud",
+    "count": 8,
+    "parent": 0
+  },
+  {
+    "id": 1,
+    "name": "Sin categoría",
+    "slug": "sin-categoria",
+    "count": 1,
+    "parent": 0
+  },
+  {
+    "id": 86,
+    "name": "Suplementos",
+    "slug": "proteinas",
+    "count": 22,
+    "parent": 0
+  },
+  {
+    "id": 73,
+    "name": "Suplementos Veganos",
+    "slug": "suplementos-veganos",
+    "count": 2,
+    "parent": 0
+  },
+  {
+    "id": 169,
+    "name": "Tienda de suplementos",
+    "slug": "tienda-de-suplementos",
+    "count": 1,
+    "parent": 0
+  },
+  {
+    "id": 94,
+    "name": "Tips",
+    "slug": "tips",
+    "count": 13,
+    "parent": 0
+  }
+]

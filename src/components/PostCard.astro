@@ -1,0 +1,58 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { title, description, pubDate, heroImage, category, wpSlug } = post.data;
+
+function formatDate(date: Date): string {
+  return date.toLocaleDateString('es-CO', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  });
+}
+---
+
+<article class="group">
+  <a href={`/${wpSlug}/`} class="block">
+    <!-- Image -->
+    {heroImage && (
+      <div class="relative overflow-hidden rounded-xl mb-3 aspect-video bg-[var(--color-brand-gray-200)]">
+        <img
+          src={typeof heroImage === 'string' ? heroImage : heroImage.src}
+          alt={title}
+          class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+          loading="lazy"
+        />
+      </div>
+    )}
+
+    <!-- Category badge -->
+    {category && (
+      <span class="inline-block text-xs font-semibold text-[var(--color-primary)] uppercase tracking-wide mb-1">
+        {category}
+      </span>
+    )}
+
+    <!-- Title -->
+    <h3 class="text-lg font-bold text-[var(--color-brand-black)] leading-snug mb-1 group-hover:text-[var(--color-primary)] transition-colors line-clamp-2">
+      {title}
+    </h3>
+
+    <!-- Description -->
+    <p class="text-sm text-[var(--color-brand-gray-500)] line-clamp-2 mb-2">
+      {description}
+    </p>
+
+    <!-- Date -->
+    <div class="text-xs text-[var(--color-brand-gray-500)]">
+      <time datetime={pubDate.toISOString()}>
+        {formatDate(pubDate)}
+      </time>
+    </div>
+  </a>
+</article>

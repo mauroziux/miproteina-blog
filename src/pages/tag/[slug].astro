@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import tagsData from '../../data/tags.json';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  // Collect all unique tag names across all posts
+  const allTags = new Set();
+  posts.forEach((p) => p.data.tags.forEach((t) => allTags.add(t)));
+
+  return [...allTags].map((tagName) => {
+    const tagPosts = posts.filter((p) => p.data.tags.includes(tagName));
+    const tagData = tagsData.find((t) => t.name === tagName);
+    const slug = tagData?.slug || String(tagName).toLowerCase().replace(/\s+/g, '-');
+    return {
+      params: { slug },
+      props: { name: tagName, posts: tagPosts },
+    };
+  });
+}
+
+const { name, posts } = Astro.props;
+const sortedPosts = posts.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout title={`${name} - Blog Mi Proteína`} description={`Artículos etiquetados con ${name} - Blog Mi Proteína`}>
+  <section class="max-w-5xl mx-auto px-4 py-12">
+    <header class="mb-10">
+      <nav class="text-sm text-[var(--color-brand-gray-500)] mb-2">
+        <a href="/" class="hover:text-[var(--color-primary)]">Inicio</a>
+        <span class="mx-1">/</span>
+        <span>Etiqueta</span>
+        <span class="mx-1">/</span>
+        <span class="text-[var(--color-brand-black)]">{name}</span>
+      </nav>
+      <h1 class="text-3xl md:text-4xl font-bold text-[var(--color-brand-black)]">{name}</h1>
+      <p class="mt-2 text-[var(--color-brand-gray-500)]">
+        {sortedPosts.length} artículo{sortedPosts.length !== 1 ? 's' : ''} con esta etiqueta
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {sortedPosts.map((post) => (
+        <PostCard post={post} />
+      ))}
+    </div>
+  </section>
+</BaseLayout>
