@@ -2,7 +2,7 @@
 title: "Creatina en Ayunas: Mitos y Realidad — Guía con Evidencia"
 description: "Descubre si tomar creatina en ayunas tiene beneficios reales. Revisamos la evidencia científica y te damos pautas claras para usarla con éxito cada día."
 pubDate: 2026-05-25T08:00:00-05:00
-heroImage: "/blog/infographics/creatina-ayunas-guia.svg"
+heroImage: "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?w=1200&h=630&fit=crop&q=80"
 category: "Creatina"
 tags:
   - "creatina"

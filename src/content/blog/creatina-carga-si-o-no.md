@@ -2,7 +2,7 @@
 title: "Fase de Carga de Creatina: Sí o No — Guía con Evidencia"
 description: "¿Vale la pena hacer fase de carga de creatina? Comparamos ambas estrategias con evidencia real para que elijas la que mejor se adapte a tu rutina."
 pubDate: 2026-05-26T00:00:03Z
-heroImage: "/blog/infographics/creatina-carga-si-o-no.svg"
+heroImage: "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=1200&h=630&fit=crop&q=80"
 category: "Creatina"
 tags:
   - "creatina"

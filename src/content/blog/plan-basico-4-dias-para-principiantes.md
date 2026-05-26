@@ -2,7 +2,7 @@
 title: "Plan Básico de 4 Días para Principiantes en el Gimnasio"
 description: "Rutina semanal de 4 días diseñada para principiantes en el gimnasio: estructura clara, ejercicios base y progresión segura para tus primeras semanas."
 pubDate: 2026-05-26T00:00:08Z
-heroImage: "/blog/infographics/plan-4-dias-principiantes.svg"
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop&q=80"
 category: "Ejercicios"
 tags:
   - "rutina"

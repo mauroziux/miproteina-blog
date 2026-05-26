@@ -2,7 +2,7 @@
 title: "Desayuno Alto en Proteína en 10 Minutos — Receta Paso a Paso"
 description: "Prepara un desayuno con alta proteína en menos de 10 minutos. Tres recetas prácticas con ingredientes accesibles para empezar el día con energía."
 pubDate: 2026-05-26T00:00:04Z
-heroImage: "/blog/infographics/desayuno-proteina-10-min.svg"
+heroImage: "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=1200&h=630&fit=crop&q=80"
 category: "Dietas y Recetas"
 tags:
   - "desayuno fitness"

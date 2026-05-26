@@ -2,7 +2,7 @@
 title: "Cardio y Pesas: Cómo Combinarlos sin Perder Músculo — Guía"
 description: "Aprende a organizar cardio y pesas en tu semana sin sacrificar masa muscular. Descubre el orden, volumen y frecuencia ideales según tu objetivo fitness."
 pubDate: 2026-05-26T00:00:05Z
-heroImage: "/blog/infographics/cardio-pesas-combinacion.svg"
+heroImage: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=1200&h=630&fit=crop&q=80"
 category: "Actividad Fisica"
 tags:
   - "cardio"

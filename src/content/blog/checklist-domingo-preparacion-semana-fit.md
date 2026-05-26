@@ -2,7 +2,7 @@
 title: "Checklist de Domingo para una Semana Fit — Paso a Paso"
 description: "Organiza tus comidas, entrenos y horarios en solo 30 minutos cada domingo y deja de improvisar toda la semana. Plantilla práctica y rápida incluida."
 pubDate: 2026-05-26T00:00:10Z
-heroImage: "/blog/infographics/checklist-domingo-fit.svg"
+heroImage: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&h=630&fit=crop&q=80"
 category: "Tips"
 tags:
   - "organizacion"

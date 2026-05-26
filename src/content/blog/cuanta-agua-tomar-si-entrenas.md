@@ -2,7 +2,7 @@
 title: "Cuánta Agua Tomar si Entrenas: Guía Completa de Hidratación"
 description: "Calcula cuánta agua necesitas según tu peso y rutina de entrenamiento. Incluye fórmula práctica y protocolo completo antes, durante y después del ejercicio."
 pubDate: 2026-05-26T00:00:06Z
-heroImage: "/blog/infographics/hidratacion-entrenamiento-guia.svg"
+heroImage: "https://images.unsplash.com/photo-1536939459926-301728717817?w=1200&h=630&fit=crop&q=80"
 category: "Salud"
 tags:
   - "hidratacion"
