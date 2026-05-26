@@ -16,6 +16,12 @@ const categories = [...new Set(posts.map((p) => p.data.category))];
 // Featured = latest post
 const featured = posts[0];
 const rest = posts.slice(1);
+
+function resolveHeroImage(image: string): string {
+  if (image.startsWith('http')) return image;
+  if (image.startsWith('/blog/infographics/')) return image;
+  return `${CDN_URL}${image}`;
+}
 ---
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
@@ -27,7 +33,7 @@ const rest = posts.slice(1);
           {featured.data.heroImage && (
             <img
               src={typeof featured.data.heroImage === 'string'
-                ? `${CDN_URL}${featured.data.heroImage}`
+                ? resolveHeroImage(featured.data.heroImage)
                 : featured.data.heroImage.src}
               alt={featured.data.title}
               class="w-full h-64 md:h-96 object-cover transition-transform duration-300 group-hover:scale-105"

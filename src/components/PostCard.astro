@@ -9,6 +9,12 @@ interface Props {
 const { post } = Astro.props;
 const { title, description, pubDate, heroImage, category, wpSlug } = post.data;
 
+function resolveHeroImage(image: string): string {
+  if (image.startsWith('http')) return image;
+  if (image.startsWith('/blog/infographics/')) return image;
+  return `${CDN_URL}${image}`;
+}
+
 function formatDate(date: Date): string {
   return date.toLocaleDateString('es-CO', {
     year: 'numeric',
@@ -24,7 +30,7 @@ function formatDate(date: Date): string {
     {heroImage && (
       <div class="relative overflow-hidden rounded-xl mb-3 aspect-video bg-[var(--color-brand-gray-200)]">
         <img
-          src={typeof heroImage === 'string' ? `${CDN_URL}${heroImage}` : heroImage.src}
+          src={typeof heroImage === 'string' ? resolveHeroImage(heroImage) : heroImage.src}
           alt={title}
           class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
           loading="lazy"

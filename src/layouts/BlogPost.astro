@@ -19,9 +19,15 @@ type Props = {
 
 const { title, description, pubDate, updatedDate, heroImage, category, tags, author } = Astro.props;
 
+function resolveHeroImage(image: string): string {
+  if (image.startsWith('http')) return image;
+  if (image.startsWith('/blog/infographics/')) return image;
+  return `${CDN_URL}${image}`;
+}
+
 const ogImage = heroImage
   ? (typeof heroImage === 'string'
-    ? (heroImage.startsWith('http') ? heroImage : `https://cdn.miproteina.com.co${heroImage}`)
+    ? resolveHeroImage(heroImage)
     : undefined)
   : undefined;
 ---
@@ -116,7 +122,7 @@ const ogImage = heroImage
         <div class="hero-image">
           {heroImage && (
             <img
-              src={typeof heroImage === 'string' ? `${CDN_URL}${heroImage}` : heroImage.src}
+              src={typeof heroImage === 'string' ? resolveHeroImage(heroImage) : heroImage.src}
               alt={title}
               width="1020"
               height="510"

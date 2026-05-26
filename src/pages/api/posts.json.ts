@@ -2,6 +2,12 @@ import { getCollection } from 'astro:content';
 import type { APIRoute } from 'astro';
 import { CDN_URL, SITE_URL } from '../../consts';
 
+function resolveHeroImage(image: string): string {
+  if (image.startsWith('http')) return image;
+  if (image.startsWith('/blog/infographics/')) return `${SITE_URL}${image}`;
+  return `${CDN_URL}${image}`;
+}
+
 export const GET: APIRoute = async () => {
   const now = new Date();
   const posts = (await getCollection('blog'))
@@ -11,9 +17,7 @@ export const GET: APIRoute = async () => {
     .map((post) => {
       const heroImage = post.data.heroImage || '';
       const image = heroImage
-        ? heroImage.startsWith('http')
-          ? heroImage
-          : `${CDN_URL}${heroImage}`
+        ? resolveHeroImage(heroImage)
         : 'https://unsplash.it/350/200';
 
       return {
