@@ -1,7 +1,7 @@
 ---
 title: "Fase de carga de creatina: si o no"
 description: "Cuando conviene hacer carga de creatina y cuando puedes ir directo con dosis diaria simple."
-pubDate: 2026-06-22T08:00:00-05:00
+pubDate: 2026-05-26T00:00:03Z
 heroImage: "/blog/infographics/creatina-carga-si-o-no.svg"
 category: "Creatina"
 tags:

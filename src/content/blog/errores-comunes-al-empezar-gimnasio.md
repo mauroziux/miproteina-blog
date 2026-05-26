@@ -1,7 +1,7 @@
 ---
 title: "5 errores comunes al empezar en el gimnasio"
 description: "Evita los fallos mas comunes de principiantes y acelera tu progreso desde la primera semana."
-pubDate: 2026-06-15T08:00:00-05:00
+pubDate: 2026-05-26T00:00:02Z
 heroImage: "/blog/infographics/errores-principiantes-gym.svg"
 category: "Actividad Fisica"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Plan basico de 4 dias para principiantes"
 description: "Rutina semanal sencilla para construir habito, mejorar tecnica y progresar con seguridad."
-pubDate: 2026-07-27T08:00:00-05:00
+pubDate: 2026-05-26T00:00:08Z
 heroImage: "/blog/infographics/plan-4-dias-principiantes.svg"
 category: "Ejercicios"
 tags:

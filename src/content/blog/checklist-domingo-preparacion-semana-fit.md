@@ -1,7 +1,7 @@
 ---
 title: "Checklist de domingo para una semana fit"
 description: "Organiza comida, entrenos y horarios en 30 minutos para no improvisar toda la semana."
-pubDate: 2026-08-10T08:00:00-05:00
+pubDate: 2026-05-26T00:00:10Z
 heroImage: "/blog/infographics/checklist-domingo-fit.svg"
 category: "Tips"
 tags:

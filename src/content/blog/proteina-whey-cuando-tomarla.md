@@ -1,7 +1,7 @@
 ---
 title: "Proteina whey: cuando tomarla para mejores resultados"
 description: "No necesitas complicarte: aprende en que momentos del dia la whey te ayuda mas segun tu rutina."
-pubDate: 2026-06-01T08:00:00-05:00
+pubDate: 2026-05-26T00:00:00Z
 heroImage: "/blog/infographics/whey-cuando-tomarla-guia.svg"
 category: "Proteinas"
 tags:

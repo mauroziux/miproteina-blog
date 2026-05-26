@@ -1,7 +1,7 @@
 ---
 title: "Cardio y pesas: como combinarlos sin perder musculo"
 description: "Aprende a organizar cardio y fuerza para mejorar condicion fisica sin afectar tu progreso muscular."
-pubDate: 2026-07-06T08:00:00-05:00
+pubDate: 2026-05-26T00:00:05Z
 heroImage: "/blog/infographics/cardio-pesas-combinacion.svg"
 category: "Actividad Fisica"
 tags:

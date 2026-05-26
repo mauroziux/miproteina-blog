@@ -1,7 +1,7 @@
 ---
 title: "Cuanta agua tomar si entrenas regularmente"
 description: "Una guia simple de hidratacion para rendir mejor en el gym y recuperarte mas rapido."
-pubDate: 2026-07-13T08:00:00-05:00
+pubDate: 2026-05-26T00:00:06Z
 heroImage: "/blog/infographics/hidratacion-entrenamiento-guia.svg"
 category: "Salud"
 tags:
