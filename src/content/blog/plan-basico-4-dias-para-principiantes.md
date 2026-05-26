@@ -35,6 +35,8 @@ Si estas empezando en el gimnasio, un plan simple y consistente te dara mejores 
 - Traccion vertical
 - Core
 
+![Persona realizando press de banca en gimnasio con tecnica correcta](https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ### Tren inferior
 
 - Patron de sentadilla
@@ -43,12 +45,16 @@ Si estas empezando en el gimnasio, un plan simple y consistente te dara mejores 
 - Gemelos
 - Core
 
+![Atleta realizando sentadilla con barra en gimnasio demostrando buena tecnica](https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## Progresion inteligente para 8 a 12 semanas
 
 1. Prioriza tecnica las primeras 2 semanas.
 2. Aumenta repeticiones antes de subir peso.
 3. Registra cargas y sensaciones cada sesion.
 4. Ajusta volumen solo cuando te adaptes.
+
+![Deportista practicando tecnica correcta de levantamiento con pesas en gimnasio](https://images.pexels.com/photos/3763695/pexels-photo-3763695.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Errores de principiantes que debes evitar
 

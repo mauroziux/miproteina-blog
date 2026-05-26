@@ -28,11 +28,15 @@ Cardio y pesas no son enemigos. Cuando se organizan bien, puedes mejorar condici
 2. Pesas (ejercicios principales primero)
 3. Cardio corto al final (10 a 20 minutos)
 
+![Persona entrenando con pesas en gimnasio combinando fuerza y cardio](https://images.pexels.com/photos/4162476/pexels-photo-4162476.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## Estructura semanal simple
 
 - 3 a 4 dias de fuerza
 - 2 a 3 bloques de cardio (suave o moderado)
 - 1 dia de recuperacion activa
+
+![Sesion de entrenamiento en gimnasio con pesas y equipo cardiovascular](https://images.pexels.com/photos/8611937/pexels-photo-8611937.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 Si estas iniciando, te puede servir esta base: [plan basico de 4 dias para principiantes](/blog/plan-basico-4-dias-para-principiantes/).
 

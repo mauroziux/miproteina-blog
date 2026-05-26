@@ -35,6 +35,8 @@ Querer subir cargas rapido suele terminar en mala ejecucion y riesgo de lesion. 
 - Controla tempo
 - Luego aumenta peso gradualmente
 
+![Deportista realizando ejercicio de pesas con tecnica y forma correcta en gimnasio](https://images.pexels.com/photos/3763708/pexels-photo-3763708.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## 3) Dormir poco y esperar gran rendimiento
 
 El progreso no pasa solo entrenando. Dormir bien impacta:
@@ -50,6 +52,8 @@ Si buscas cambiar composicion corporal, necesitas al menos una referencia:
 - Meta de proteina diaria
 - Orden basico de comidas
 - Hidratacion adecuada
+
+![Preparacion de comidas saludables con porciones medidas para la semana](https://images.pexels.com/photos/12050951/pexels-photo-12050951.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 Te recomendamos complementar con [cuanta agua tomar si entrenas regularmente](/blog/cuanta-agua-tomar-si-entrenas/).
 

@@ -26,6 +26,8 @@ Momentos utiles:
 - **Desayuno**: cuando amaneces sin apetito o con poco tiempo.
 - **Media tarde**: para evitar llegar con hambre extrema a la cena.
 
+![Batido de proteina whey y reloj mostrando el momento ideal para consumirla despues de entrenar](https://images.pexels.com/photos/4378523/pexels-photo-4378523.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## Cuánta proteina necesitas al dia
 
 Como referencia general para personas activas:

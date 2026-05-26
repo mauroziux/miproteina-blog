@@ -26,6 +26,8 @@ Ejemplo rapido:
 
 - Persona de 70 kg → 2.1 a 2.8 litros/dia (sin contar perdidas altas por calor extremo)
 
+![Botella de agua en gimnasio durante sesion de entrenamiento](https://images.pexels.com/photos/6283499/pexels-photo-6283499.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## Protocolo: antes, durante y despues del entreno
 
 - **Antes**: 400 a 600 ml en la hora previa
@@ -38,6 +40,8 @@ Ejemplo rapido:
 - Dolor de cabeza
 - Caida de rendimiento
 - Orina muy oscura
+
+![Deportista bebiendo agua durante entrenamiento intenso en gimnasio](https://images.pexels.com/photos/8611246/pexels-photo-8611246.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## ¿Cuándo usar electrolitos?
 

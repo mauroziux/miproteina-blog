@@ -30,6 +30,8 @@ Sentir que "ya no avanzas" es una fase normal en cualquier proceso fitness. La s
 4. **Sueño** (cantidad y calidad)
 5. **Hidratacion/estres** (impacto en recuperacion)
 
+![Entrenamiento intenso con pesas pesadas para superar estancamiento muscular](https://images.pexels.com/photos/17770534/pexels-photo-17770534.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## Metodo de ajuste: una variable por semana
 
 Haz un unico cambio cada semana para identificar que funciono:

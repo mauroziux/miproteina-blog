@@ -36,6 +36,8 @@ La semana no se gana el lunes; se gana el domingo cuando dejas listo lo importan
 - Verifica stock de whey/creatina
 - Prepara shaker para dias ocupados
 
+![Preparacion de comidas saludables del domingo con recipientes organizados para la semana](https://images.pexels.com/photos/4929677/pexels-photo-4929677.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ### 4) Recuperacion (6 minutos)
 
 - Agenda horario de sueño

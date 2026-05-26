@@ -30,11 +30,15 @@ Un desayuno alto en proteina puede marcar toda tu jornada: mejor energia, mejor 
 - 1 arepa pequena
 - 1 porcion de fruta
 
+![Desayuno colombiano con huevos revueltos arepa y fruta fresca](https://images.pexels.com/photos/32986480/pexels-photo-32986480.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ### Opcion 2: bowl rapido
 
 - 1 taza de yogur griego
 - 30 a 40 g de avena
 - Frutos rojos o banano
+
+![Bowl de yogur griego con avena frutos rojos y granola saludable](https://images.pexels.com/photos/11394964/pexels-photo-11394964.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ### Opcion 3: batido express
 
@@ -42,6 +46,8 @@ Un desayuno alto en proteina puede marcar toda tu jornada: mejor energia, mejor 
 - 1 banano pequeno
 - 1 cucharada de mantequilla de mani
 - Agua o leche descremada
+
+![Batido de proteina express con banano y mantequilla de mani listo en minutos](https://images.pexels.com/photos/11135665/pexels-photo-11135665.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 Si todavia no sabes que tipo de suplemento te conviene, revisa [como elegir proteina segun tu objetivo](/blog/como-elegir-proteina-segun-tu-objetivo/).
 

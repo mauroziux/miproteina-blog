@@ -48,6 +48,8 @@ Es una estrategia para saturar mas rapido los depositos musculares de creatina d
 2. Si quieres acelerar saturacion y toleras bien dosis altas: **con carga**.
 3. Si dudas, empieza sin carga y evalua 3 a 4 semanas.
 
+![Suplemento de creatina monohidratada con cucharada medidora sobre mesa](https://images.pexels.com/photos/15120889/pexels-photo-15120889.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 Tambien te puede servir esta lectura complementaria: [creatina en ayunas: mitos y realidad](/blog/creatina-en-ayunas-mitos-realidad/).
 
 ## Errores comunes en ambas estrategias

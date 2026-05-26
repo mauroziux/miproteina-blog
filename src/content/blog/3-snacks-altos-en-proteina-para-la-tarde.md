@@ -32,6 +32,8 @@ La tarde es el momento donde muchas personas se salen del plan por hambre, ansie
 
 **Aporte aproximado**: 18 a 25 g de proteina (segun marca y porcion).
 
+![Tazon de yogur griego con frutas frescas y semillas de chia](https://images.pexels.com/photos/566564/pexels-photo-566564.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## 2) Arepa delgada + pechuga desmechada
 
 **Ingredientes**
@@ -42,6 +44,8 @@ La tarde es el momento donde muchas personas se salen del plan por hambre, ansie
 
 **Aporte aproximado**: 22 a 30 g de proteina.
 
+![Arepa colombiana rellena con pechuga de pollo y vegetales frescos](https://images.pexels.com/photos/29465172/pexels-photo-29465172.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## 3) Batido rapido de whey
 
 **Ingredientes**
@@ -51,6 +55,8 @@ La tarde es el momento donde muchas personas se salen del plan por hambre, ansie
 - Hielo
 
 **Aporte aproximado**: 20 a 27 g de proteina.
+
+![Batido de proteina whey preparado en shaker despues de entrenar](https://images.pexels.com/photos/4378601/pexels-photo-4378601.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 Si no sabes en que momento del dia priorizar whey, revisa [proteina whey: cuando tomarla](/blog/proteina-whey-cuando-tomarla/).
 

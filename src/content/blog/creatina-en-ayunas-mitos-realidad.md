@@ -32,6 +32,8 @@ Puedes tomarla en ayunas sin problema si te cae bien al estomago. Tambien puedes
 - Tambien en dias de descanso
 - Acompanarla con hidratacion adecuada (agua y electrolitos si sudas mucho)
 
+![Cucharada medidora de creatina monohidratada lista para preparar](https://images.pexels.com/photos/13779103/pexels-photo-13779103.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 Si todavia tienes dudas con la estrategia de carga, revisa tambien [fase de carga de creatina: si o no](/blog/creatina-carga-si-o-no/).
 
 ## ¿Cuándo podría convenirte evitarla en ayunas?

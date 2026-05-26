@@ -43,6 +43,8 @@ Si tienes sensibilidad a lactosa, la proteina aislada o vegana puede ser mejor o
 - Sin lacteos
 - Buena alternativa para dietas plant-based
 
+![Comparacion visual de diferentes tipos de proteina en polvo whey concentrada aislada y vegana](https://images.pexels.com/photos/11501481/pexels-photo-11501481.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 ## ¿Cuánta proteína total necesitas?
 
 Como guia general para personas activas:
