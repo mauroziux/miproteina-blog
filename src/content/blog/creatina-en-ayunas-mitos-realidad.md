@@ -64,7 +64,7 @@ Al final de la cuarta semana, ambos métodos llegan al mismo nivel. El "cuando" 
 
 ## Dosis práctica para la mayoría
 
-- **3 a 5 g al día** de creatina monohidratada — la forma más estudiada y económica
+- **3 a 5 g al día** de creatina monohidratada — la forma más estudiada y económica. [Ver creatinas en MiProteina](https://miproteina.com.co/categorias/creatinas/creatina-monohidrata){rel="noopener"} para opciones con envío a toda Colombia.
 - También en días de descanso — la creatina no es solo para días de entreno
 - Acompáñala con hidratación adecuada (agua y electrolitos si sudas mucho). Revisa [cuánta agua tomar si entrenas](/blog/cuanta-agua-tomar-si-entrenas/) para más detalles.
 
@@ -110,6 +110,13 @@ La regla es simple: ancla la creatina a algo que ya haces todos los días. No cr
 - [ ] Evaluare resultados en 3-4 semanas, no en 3 días.
 - [ ] No voy a ciclar la creatina — voy a tomarla todos los días.
 - [ ] Mi creatina es monohidratada y de una marca confiable — no necesito "versiones premium".
+
+## Productos Recomendados
+
+Si necesitas una creatina confiable para empezar tu protocolo de 3-5 g diarios:
+
+- [**Creatine Monohydrate Nutrex** (2.2 lb, $220.000)](https://miproteina.com.co/categorias/creatinas/creatina-monohidrata){rel="noopener"} — monohidratada pura, rinde meses con dosis estándar
+- [**Celltech Performance** (3 lb, $190.000)](https://miproteina.com.co/categorias/creatinas/otras-creatinas){rel="noopener"} — creatina con carbohidratos para quienes buscan volumen y fuerza
 
 ## Conclusión
 

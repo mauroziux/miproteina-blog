@@ -77,7 +77,7 @@ No vas a cocinar pechuga todos los días. Haz esto:
 
 ## Snack 3: Batido rápido de whey
 
-El más práctico de los tres. No requiere preparación previa, se hace en 30 segundos y puedes llevarlo a cualquier parte. Pero hay un error muy común: tomar el batido solo con agua y sentir hambre 45 minutos después. La whey se digiere rápido, especialmente la concentrada. Si quieres que te dure más, combínala con algo de grasa o fibra.
+El más práctico de los tres. No requiere preparación previa, se hace en 30 segundos y puedes llevarlo a cualquier parte. Pero hay un error muy común: tomar el batido solo con agua y sentir hambre 45 minutos después. La whey se digiere rápido, especialmente la concentrada. Si quieres que te dure más, combínala con algo de grasa o fibra. Puedes [encontrar whey para tu batido en MiProteina](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} — tienen opciones desde $280.000 con envío gratis.
 
 **Ingredientes**
 
@@ -112,7 +112,7 @@ Esto significa que tu snack de la tarde no es solo para "no tener hambre" — es
 ## Errores comunes al elegir snacks "fit"
 
 - **Elegir solo por calorías y olvidar proteína.** Un snack de 150 kcal con 3 g de proteína y 20 g de carbohidratos te va a dar hambre en 45 minutos. Un snack de 200 kcal con 25 g de proteína te mantiene satisfecho por 2-3 horas.
-- **Confiar en barras con mucho azúcar y poca proteína.** Lee la etiqueta: si tiene más de 10 g de azúcar añadido y menos de 15 g de proteína, no es un snack proteico — es un dulce con publicidad deportiva.
+- **Confiar en barras con mucho azúcar y poca proteína.** Lee la etiqueta: si tiene más de 10 g de azúcar añadido y menos de 15 g de proteína, no es un snack proteico — es un dulce con publicidad deportiva. Si prefieres la comodidad de una barra, [revisa las barras de proteína en MiProteina](https://miproteina.com.co/categorias/proteinas/barras-de-proteina){rel="noopener"} para opciones con buen perfil nutricional.
 - **No planificar y terminar comprando lo primero que encuentras.** El 80% de las decisiones alimentarias malas se toman por falta de preparación, no por falta de conocimiento.
 - **Comer fruta sola como snack.** Una manzana tiene ~0.5 g de proteína. Es saludable, pero no es un snack que te mantenga satisfecho. Combínala con una fuente de proteína.
 
@@ -123,6 +123,13 @@ Esto significa que tu snack de la tarde no es solo para "no tener hambre" — es
 | Yogur griego + fruta + chía | 18-25 g | 2 min | Días de descanso |
 | Arepa + pechuga | 22-30 g | 5 min | Pre-entreno o post-entreno |
 | Batido de whey | 20-31 g | 30 seg | Cualquier momento |
+
+## Productos Recomendados
+
+Para armar tus snacks proteicos de la tarde sin perder tiempo:
+
+- [**Whey Pro** (4.4 lb, $280.000)](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} — perfecto para tu batido de la tarde, buena relación costo-beneficio
+- [**Vegan Proteína** (Caja x 12, $94.000)](https://miproteina.com.co/categorias/proteinas/proteina-vegetal){rel="noopener"} — opción vegana práctica para mezclar con yogur o preparar al momento
 
 ## Conclusión
 

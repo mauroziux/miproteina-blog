@@ -14,7 +14,7 @@ wpSlug: "proteina-whey-cuando-tomarla"
 
 La "ventana anabólica" de 30 minutos es un mito que viene de los años 90. La ciencia moderna dice que tienes una ventana de 4-6 horas para consumir proteína después de entrenar, no 30 minutos. Si te estás apurando para batir tu scoop en el vestuario del gym como si tu músculo fuera a desaparecer en media hora, puedes relajarte. Tu cuerpo no funciona así.
 
-La proteína whey es una de las formas más prácticas de llegar a tu meta diaria de proteína, especialmente cuando tienes poco tiempo para cocinar. Pero el cuándo tomarla importa mucho menos que el cuánta tomas en total. Vamos a desmontar los mitos y darte un protocolo real.
+La proteína whey es una de las formas más prácticas de llegar a tu meta diaria de proteína, especialmente cuando tienes poco tiempo para cocinar. Puedes [encontrar tu whey en MiProteina](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} para comparar marcas y precios. Pero el cuándo tomarla importa mucho menos que el cuánta tomas en total. Vamos a desmontar los mitos y darte un protocolo real.
 
 ![Infografia whey protein: mejores momentos del dia para tomarla segun objetivo de ganancia muscular o perdida de grasa](/blog/infographics/whey-cuando-tomarla-guia.svg)
 
@@ -105,6 +105,14 @@ Si un día entrenas y necesitas más, agregas medio scoop o un snack proteico. S
 - **Aislada:** opción útil si tienes digestión sensible a lactosa. ~85-90% de proteína, casi sin lactosa. Más cara pero más limpia.
 
 Puedes profundizar aquí: [aislada o concentrada: elige tu proteína](/blog/aislada-o-concentrada-elige-tu-proteina/).
+
+## Productos Recomendados
+
+Si necesitas una whey de calidad para tu rutina diaria, estas son opciones sólidas con envío a toda Colombia:
+
+- [**100% Whey Gold Standard** (5 lb, $459.900)](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} — el gold standard de Optimum Nutrition, una de las más vendidas del mundo
+- [**Whey Pro** (4.4 lb, $280.000)](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} — opción nacional con excelente relación costo-beneficio y envío gratis
+- [**Iso Pro** (2.2 lb, $230.000)](https://miproteina.com.co/categorias/proteinas/proteina-aislada-isolate){rel="noopener"} — si prefieres aislada para evitar lactosa
 
 ## Conclusión
 

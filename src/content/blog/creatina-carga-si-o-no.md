@@ -77,7 +77,7 @@ Otros hallazgos relevantes del *Journal of the International Society of Sports N
 
 Aquí viene el segundo engaño. Te venden "creatina micronizada", "creatina con transporte", "creatina HCL", "creatina缓冲izada" — todas con un precio 2-3 veces superior a la monohidratada básica. Un estudio de 2017 en el *Journal of Dietary Supplements* concluyó que **la creatina monohidratada es la forma más estudiada, más segura y más efectiva** disponible. Las otras formas tienen menos evidencia, no más.
 
-La creatina monohidratada barata funciona igual que las versiones "premium" que cuestan el triple. Si el pote dice "Creatine Monohydrate" y tiene certificación de terceros (Creapure, NSF, Informed Sport), estás listo. Lo demás es empaque y marketing.
+La creatina monohidratada barata funciona igual que las versiones "premium" que cuestan el triple. Si el pote dice "Creatine Monohydrate" y tiene certificación de terceros (Creapure, NSF, Informed Sport), estás listo. Lo demás es empaque y marketing. Puedes [ver creatinas monohidratadas en MiProteina](https://miproteina.com.co/categorias/creatinas/creatina-monohidrata){rel="noopener"} para comparar opciones certificadas.
 
 ![Suplemento de creatina monohidratada con cucharada medidora sobre mesa](https://images.pexels.com/photos/15120889/pexels-photo-15120889.jpeg?auto=compress&cs=tinysrgb&w=800)
 
@@ -117,6 +117,13 @@ Sea que elijas carga o no, aquí tienes el plan exacto:
 El factor predictivo más importante del éxito con creatina no es la dosis, no es la marca, no es el horario. Es **tomarla todos los días durante meses**. Un estudio del *British Journal of Sports Medicine* mostró que los participantes que tomaban creatina consistentemente durante 12+ semanas ganaban en promedio 2-3 kg más de masa magra y aumentaban su fuerza en press banca entre un 5-15% comparado con placebo. Pero ese efecto desaparece si paras y reinicias constantemente.
 
 Tu protocolo ideal no es el más avanzado ni el que te venden en TikTok. Es el que puedes sostener todos los días durante los próximos 6 meses.
+
+## Productos Recomendados
+
+Para empezar tu protocolo de creatina con una marca confiable, revisa estas opciones:
+
+- [**Creatine Monohydrate Nutrex** (2.2 lb, $220.000)](https://miproteina.com.co/categorias/creatinas/creatina-monohidrata){rel="noopener"} — monohidratada pura, 2.2 lb te rinden meses, envío gratis
+- [**Celltech Performance** (3 lb, $190.000)](https://miproteina.com.co/categorias/creatinas/otras-creatinas){rel="noopener"} — creatina con carbohidratos para quienes buscan volumen y recuperación
 
 ## Conclusión
 

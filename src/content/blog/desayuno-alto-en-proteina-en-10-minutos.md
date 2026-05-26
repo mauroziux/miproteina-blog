@@ -73,7 +73,7 @@ Todo desayuno que te sostenga hasta el almuerzo necesita tres componentes:
 - 250 ml de leche descremada o agua (8g proteína si es leche)
 - **Total aproximado**: ~38g proteína, 35g carbohidratos, 12g grasa | ~400 kcal
 
-Este batido tiene más proteína que 4 huevos, más fibra que un bowl de cereal, y toma 3 minutos. Si tu excusa es "no tengo tiempo", esta opción la haces mientras te cepillas los dientes.
+Este batido tiene más proteína que 4 huevos, más fibra que un bowl de cereal, y toma 3 minutos. Si tu excusa es "no tengo tiempo", esta opción la haces mientras te cepillas los dientes. Puedes [encontrar whey protein en MiProteina](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} para tu batido express.
 
 Si todavia no sabes que tipo de suplemento te conviene, revisa [como elegir proteina segun tu objetivo](/blog/como-elegir-proteina-segun-tu-objetivo/).
 
@@ -128,10 +128,17 @@ No necesitas meal prep elaborado. Necesitas esto:
 
 1. **Domingo en la noche**: deja en la alacena los ingredientes secos de tu batido ya medidos (avena + mantequilla de maní en un recipiente pequeño)
 2. **Lunes a viernes**:唯一的 decisión es "hoy huevos o batido". No hay más opciones.
-3. **Fruta**: siempre ten banano o fruta picada lista en la nevera
+3. **Fruta**: siempre ten banano o fruta picada lista en la nevera. Para las mañanas con menos tiempo, las [barras de proteína](https://miproteina.com.co/categorias/proteinas/barras-de-proteina){rel="noopener"} son una alternativa rápida como acompañamiento.
 4. **Proteína**: tu tarro de whey siempre en el mismo lugar, shaker limpio
 
 Este sistema elimina la decisión y la improvisación. Y la disciplina, al final, no es motivación — es tener un sistema que no requiere decisión.
+
+## Productos Recomendados
+
+Para armar tus desayunos proteicos sin complicarte, estas opciones son prácticas y con buen precio:
+
+- [**Whey Pro** (4.4 lb, $280.000)](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} — ideal para tus batidos express de la mañana
+- [**Vegan Proteína** (Caja x 12, $94.000)](https://miproteina.com.co/categorias/proteinas/proteina-vegetal){rel="noopener"} — alternativa vegana lista para mezclar con avena o yogur
 
 ## Conclusión
 

@@ -58,7 +58,7 @@ No asumas que te cae mal "la proteína". Probablemente te cae mal la lactosa. Ca
 - **Lactosa**: moderada (3-8 g por porción)
 - **Mejor para**: la mayoría de personas que entrenan y no tienen problemas con lácteos
 
-La concentrada tiene un perfil de aminoácidos excelente y es la que mejor relación costo-beneficio ofrece. Si no te da problemas digestivos, no tienes razón para comprar otra cosa.
+La concentrada tiene un perfil de aminoácidos excelente y es la que mejor relación costo-beneficio ofrece. Si no te da problemas digestivos, no tienes razón para comprar otra cosa. Puedes [ver proteínas concentradas en MiProteina](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} para comparar opciones y precios.
 
 ### Whey aislada — para los sensibles a la lactosa (no para impresionar)
 
@@ -68,7 +68,7 @@ La concentrada tiene un perfil de aminoácidos excelente y es la que mejor relac
 - **Lactosa**: mínima (<1 g por porción)
 - **Mejor para**: personas con intolerancia a lactosa o en déficit calórico estricto
 
-La aislada no es "mejor" que la concentrada. Es más procesada para eliminar lactosa y grasa. Si no eres intolerante, estás pagando el doble por una diferencia que no vas a notar en tus resultados. Para profundizar, revisa [aislada o concentrada: elige tu proteína](/blog/aislada-o-concentrada-elige-tu-proteina/).
+La aislada no es "mejor" que la concentrada. Es más procesada para eliminar lactosa y grasa. Si no eres intolerante, estás pagando el doble por una diferencia que no vas a notar en tus resultados. Si la lactosa sí es un problema, [revisa las proteínas aisladas en MiProteina](https://miproteina.com.co/categorias/proteinas/proteina-aislada-isolate){rel="noopener"} para encontrar opciones que se ajusten a tu presupuesto. Para profundizar, revisa [aislada o concentrada: elige tu proteína](/blog/aislada-o-concentrada-elige-tu-proteina/).
 
 ### Proteína vegana — útil pero incompleta
 
@@ -77,7 +77,7 @@ La aislada no es "mejor" que la concentrada. Es más procesada para eliminar lac
 - **Trade-off principal**: las proteínas vegetales individuales son **incompletas** — les faltan aminoácidos esenciales
 - **Mejor para**: veganos, personas con alergia a lácteos, o quienes buscan variedad
 
-Aquí hay que ser honestos: un estudio en *Nutrients* comparó whey vs proteína de guisante y encontró que la whey producía una **mayor síntesis de proteína muscular** en las 3 horas post-consumo. Las proteínas veganas pueden funcionar, pero necesitas combinar fuentes (guisante + arroz, por ejemplo) para obtener un perfil completo de aminoácidos. Para más contexto, lee [proteina vegana: todo lo que no sabías](/blog/proteina-vegana-todo-lo-que-no-sabias/).
+Aquí hay que ser honestos: un estudio en *Nutrients* comparó whey vs proteína de guisante y encontró que la whey producía una **mayor síntesis de proteína muscular** en las 3 horas post-consumo. Las proteínas veganas pueden funcionar, pero necesitas combinar fuentes (guisante + arroz, por ejemplo) para obtener un perfil completo de aminoácidos. Si buscas opciones plant-based, [explora las proteínas vegetales en MiProteina](https://miproteina.com.co/categorias/proteinas/proteina-vegetal){rel="noopener"}. Para más contexto, lee [proteina vegana: todo lo que no sabías](/blog/proteina-vegana-todo-lo-que-no-sabias/).
 
 ![Comparacion visual de diferentes tipos de proteina en polvo whey concentrada aislada y vegana](https://images.pexels.com/photos/11501481/pexels-photo-11501481.jpeg?auto=compress&cs=tinysrgb&w=800)
 
@@ -115,6 +115,14 @@ Cuando tengas el tarro en la mano, busca esto:
 4. **Certificaciones** — Informed Choice, NSF, o al menos registro INVIMA vigente
 
 Para complementar este tema, revisa [proteina whey: cuando tomarla para mejores resultados](/blog/proteina-whey-cuando-tomarla/).
+
+## Productos Recomendados
+
+Si ya tienes claro qué tipo de proteína necesitas, estas son opciones con buena relación calidad-precio disponibles en Colombia:
+
+- [**Whey Pro** (4.4 lb, $280.000)](https://miproteina.com.co/categorias/proteinas/proteina-concentrada){rel="noopener"} — concentrada nacional, mejor costo-beneficio del mercado
+- [**Iso Pro** (2.2 lb, $230.000)](https://miproteina.com.co/categorias/proteinas/proteina-aislada-isolate){rel="noopener"} — si buscas aislada sin pagar de más
+- [**Vegan Proteína** (Caja x 12, $94.000)](https://miproteina.com.co/categorias/proteinas/proteina-vegetal){rel="noopener"} — opción plant-based accesible
 
 ## Conclusión
 
