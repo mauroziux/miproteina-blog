@@ -1,6 +1,6 @@
 ---
-title: "Fase de carga de creatina: si o no"
-description: "Cuando conviene hacer carga de creatina y cuando puedes ir directo con dosis diaria simple."
+title: "Fase de Carga de Creatina: Sí o No — Guía con Evidencia"
+description: "¿Vale la pena hacer fase de carga de creatina? Comparamos ambas estrategias con evidencia real para que elijas la que mejor se adapte a tu rutina."
 pubDate: 2026-05-26T00:00:03Z
 heroImage: "/blog/infographics/creatina-carga-si-o-no.svg"
 category: "Creatina"

@@ -1,6 +1,6 @@
 ---
-title: "Como elegir proteina segun tu objetivo"
-description: "Guia rapida para escoger whey, aislada o vegana segun tus metas y tolerancia digestiva."
+title: "Cómo Elegir Proteína según tu Objetivo — Guía Paso a Paso"
+description: "Whey concentrada, aislada o vegana: elige la proteína correcta según tu meta, tolerancia digestiva y presupuesto con esta guía comparativa paso a paso."
 pubDate: 2026-05-26T00:00:07Z
 heroImage: "/blog/infographics/elegir-proteina-objetivo.svg"
 category: "Proteinas"

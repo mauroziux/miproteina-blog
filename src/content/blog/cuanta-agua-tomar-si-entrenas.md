@@ -1,6 +1,6 @@
 ---
-title: "Cuanta agua tomar si entrenas regularmente"
-description: "Una guia simple de hidratacion para rendir mejor en el gym y recuperarte mas rapido."
+title: "Cuánta Agua Tomar si Entrenas: Guía Completa de Hidratación"
+description: "Calcula cuánta agua necesitas según tu peso y rutina de entrenamiento. Incluye fórmula práctica y protocolo completo antes, durante y después del ejercicio."
 pubDate: 2026-05-26T00:00:06Z
 heroImage: "/blog/infographics/hidratacion-entrenamiento-guia.svg"
 category: "Salud"

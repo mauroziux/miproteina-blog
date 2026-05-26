@@ -1,6 +1,6 @@
 ---
-title: "3 snacks altos en proteina para la tarde"
-description: "Opciones practicas para controlar hambre, mejorar saciedad y mantener tu objetivo nutricional."
+title: "3 Snacks Altos en Proteína para la Tarde — Recetas Fáciles"
+description: "Tres opciones prácticas y ricas en proteína para controlar el hambre de la tarde, mejorar la saciedad y mantener tu meta nutricional cada día."
 pubDate: 2026-05-26T00:00:01Z
 heroImage: "/blog/infographics/snacks-proteina-tarde.svg"
 category: "Dietas y Recetas"

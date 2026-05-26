@@ -1,6 +1,6 @@
 ---
-title: "Como romper un estancamiento en el gym"
-description: "Si llevas semanas sin mejorar, ajusta estas variables clave para volver a progresar."
+title: "Cómo Romper un Estancamiento en el Gym — Guía de 5 Pasos"
+description: "¿Llevas semanas sin progresar en el gym? Aprende a diagnosticar el problema y ajusta las 5 variables clave para volver a ver resultados reales."
 pubDate: 2026-05-26T00:00:09Z
 heroImage: "/blog/infographics/romper-estancamiento-gym.svg"
 category: "Tips"

@@ -1,6 +1,6 @@
 ---
-title: "Desayuno alto en proteina en 10 minutos"
-description: "Una plantilla practica para empezar el dia con energia y mejorar tu consumo de proteina."
+title: "Desayuno Alto en Proteína en 10 Minutos — Receta Paso a Paso"
+description: "Prepara un desayuno con alta proteína en menos de 10 minutos. Tres recetas prácticas con ingredientes accesibles para empezar el día con energía."
 pubDate: 2026-05-26T00:00:04Z
 heroImage: "/blog/infographics/desayuno-proteina-10-min.svg"
 category: "Dietas y Recetas"
