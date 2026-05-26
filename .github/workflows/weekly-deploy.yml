@@ -1,36 +1,22 @@
-name: Weekly Pages Rebuild
+name: Weekly Blog Deploy
 
-"on":
+on:
   schedule:
-    # Every Monday at 12:55 UTC (07:55 Colombia, UTC-5)
     - cron: "55 12 * * 1"
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: weekly-pages-rebuild
-  cancel-in-progress: true
-
 jobs:
-  rebuild:
-    name: Trigger weekly Cloudflare Pages rebuild
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Configure git author
-        run: |
+      - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Create empty commit
-        run: git commit --allow-empty -m "chore: weekly pages rebuild"
-
-      - name: Push to main
-        run: git push origin HEAD:main
+      - run: git commit --allow-empty -m "chore: weekly pages rebuild"
+      - run: git push origin HEAD:main
