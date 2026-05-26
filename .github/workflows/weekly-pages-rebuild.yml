@@ -1,15 +1,12 @@
-name: Weekly Blog Deploy
-
+name: Weekly Pages Rebuild
 on:
   schedule:
     - cron: "55 12 * * 1"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
-  deploy:
+  rebuild:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
