@@ -1,8 +1,8 @@
 name: Weekly Pages Rebuild
-on:
+"on":
   schedule:
     - cron: "55 12 * * 1"
-  workflow_dispatch:
+  workflow_dispatch: {}
 permissions:
   contents: write
 jobs:
