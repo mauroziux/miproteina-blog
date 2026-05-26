@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Desayuno alto en proteina en 10 minutos</title>
+  <desc id="desc">Plantilla visual para crear desayunos altos en proteina en pocos minutos.</desc>
+  <rect width="1200" height="630" fill="#2a1d12"/>
+  <rect x="45" y="45" width="1110" height="540" rx="24" fill="#3a2a1f" stroke="#fb923c"/>
+  <text x="85" y="120" fill="#fb923c" font-size="42" font-family="Arial, sans-serif" font-weight="700">Desayuno alto en proteina (10 min)</text>
+  <text x="85" y="175" fill="#fed7aa" font-size="26" font-family="Arial, sans-serif">Formula: Proteina + Carbohidrato + Grasa saludable</text>
+  <text x="85" y="250" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">Proteina: huevos, yogur griego, whey</text>
+  <text x="85" y="295" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">Carbohidrato: avena, arepa, fruta</text>
+  <text x="85" y="340" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">Grasa: mani, almendras, aguacate</text>
+  <text x="85" y="420" fill="#86efac" font-size="24" font-family="Arial, sans-serif">Objetivo: mas saciedad y energia desde la manana</text>
+  <text x="85" y="500" fill="#f8fafc" font-size="22" font-family="Arial, sans-serif">Mi Proteina Blog • Nutricion practica y sostenible</text>
+</svg>

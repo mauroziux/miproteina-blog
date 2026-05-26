@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Cardio y pesas: combinacion inteligente</title>
+  <desc id="desc">Infografia de orden recomendado para combinar fuerza y cardio sin perder masa muscular.</desc>
+  <rect width="1200" height="630" fill="#111827"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#1f2937" stroke="#06b6d4"/>
+  <text x="80" y="120" fill="#06b6d4" font-size="42" font-family="Arial, sans-serif" font-weight="700">Cardio + pesas sin perder musculo</text>
+  <text x="80" y="175" fill="#d1fae5" font-size="26" font-family="Arial, sans-serif">Orden en una misma sesion</text>
+  <text x="80" y="255" fill="#ffffff" font-size="28" font-family="Arial, sans-serif">1) Calentamiento 5-10 min</text>
+  <text x="80" y="305" fill="#ffffff" font-size="28" font-family="Arial, sans-serif">2) Fuerza (prioridad)</text>
+  <text x="80" y="355" fill="#ffffff" font-size="28" font-family="Arial, sans-serif">3) Cardio 10-20 min al final</text>
+  <text x="80" y="435" fill="#93c5fd" font-size="24" font-family="Arial, sans-serif">Semanal: 3-4 dias fuerza + 2-3 bloques cardio moderado</text>
+  <text x="80" y="505" fill="#f8fafc" font-size="22" font-family="Arial, sans-serif">Mi Proteina Blog • Entrena con estrategia, no por impulso</text>
+</svg>

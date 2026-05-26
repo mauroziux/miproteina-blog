@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Como romper estancamiento en el gym</title>
+  <desc id="desc">Infografia con variables clave para salir de un estancamiento de entrenamiento.</desc>
+  <rect width="1200" height="630" fill="#3f1d2e"/>
+  <rect x="45" y="45" width="1110" height="540" rx="24" fill="#581c87" stroke="#f472b6"/>
+  <text x="85" y="120" fill="#f472b6" font-size="42" font-family="Arial, sans-serif" font-weight="700">Rompe tu estancamiento en 4 semanas</text>
+  <text x="85" y="180" fill="#fae8ff" font-size="26" font-family="Arial, sans-serif">Ajusta una variable por semana</text>
+  <text x="85" y="250" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">Semana 1: Volumen total</text>
+  <text x="85" y="295" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">Semana 2: Sueño y recuperacion</text>
+  <text x="85" y="340" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">Semana 3: Proteina e hidratacion</text>
+  <text x="85" y="385" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">Semana 4: Deload y retoma progresion</text>
+  <text x="85" y="465" fill="#fde68a" font-size="24" font-family="Arial, sans-serif">No cambies todo al tiempo: mide y decide.</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Checklist de domingo para semana fit</title>
+  <desc id="desc">Infografia de planificacion semanal fitness con entrenamiento, alimentacion y descanso.</desc>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#1e293b" stroke="#22c55e"/>
+  <text x="80" y="120" fill="#22c55e" font-size="42" font-family="Arial, sans-serif" font-weight="700">Checklist de domingo (30 min)</text>
+  <text x="80" y="175" fill="#dcfce7" font-size="26" font-family="Arial, sans-serif">Prepara la semana y reduce improvisacion</text>
+  <text x="80" y="250" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">☑ Entrenos: define 4 sesiones</text>
+  <text x="80" y="295" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">☑ Comidas: compra proteina + vegetales</text>
+  <text x="80" y="340" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">☑ Snacks: deja 1 opcion lista diaria</text>
+  <text x="80" y="385" fill="#ffffff" font-size="24" font-family="Arial, sans-serif">☑ Sueno: agenda horario fijo</text>
+  <text x="80" y="465" fill="#86efac" font-size="24" font-family="Arial, sans-serif">Planificacion simple = mas adherencia y mejores resultados</text>
+</svg>

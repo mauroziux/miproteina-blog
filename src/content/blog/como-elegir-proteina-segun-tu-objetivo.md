@@ -2,6 +2,7 @@
 title: "Como elegir proteina segun tu objetivo"
 description: "Guia rapida para escoger whey, aislada o vegana segun tus metas y tolerancia digestiva."
 pubDate: 2026-07-20T08:00:00-05:00
+heroImage: "/blog/infographics/elegir-proteina-objetivo.svg"
 category: "Proteinas"
 tags:
   - "whey protein"
@@ -11,18 +12,57 @@ author: "Equipo Mi Proteína"
 wpSlug: "como-elegir-proteina-segun-tu-objetivo"
 ---
 
-No todas las proteinas son iguales para todos.
+Elegir proteina no deberia ser una decision confusa. Si filtras por objetivo, digestibilidad y presupuesto, encontraras una opcion sostenible para ti.
 
-## Si buscas practicidad y costo-beneficio
+![Infografia para elegir proteina segun objetivo: decision tree entre whey concentrada, aislada y vegana](/blog/infographics/elegir-proteina-objetivo.svg)
 
-La whey concentrada suele ser una gran primera opcion.
+## Paso 1: define tu objetivo principal
 
-## Si tienes digestion sensible
+- Ganar masa muscular
+- Perder grasa conservando musculo
+- Mantener masa y mejorar recuperacion
 
-La aislada puede ayudarte por menor contenido de lactosa.
+## Paso 2: revisa tolerancia digestiva
 
-## Si no consumes lacteos
+Si tienes sensibilidad a lactosa, la proteina aislada o vegana puede ser mejor opcion que una concentrada.
 
-Una buena proteina vegana puede cubrir tus requerimientos sin problema.
+## Paso 3: compara tipos de proteina
 
-Elige la que te permita ser constante durante meses, no solo una semana.
+### Whey concentrada
+
+- Excelente costo-beneficio
+- Muy util para la mayoria
+
+### Whey aislada
+
+- Menor lactosa
+- Suele digerirse mejor en personas sensibles
+
+### Proteina vegana
+
+- Sin lacteos
+- Buena alternativa para dietas plant-based
+
+## ¿Cuánta proteína total necesitas?
+
+Como guia general para personas activas:
+
+- **1.6 a 2.2 g/kg/dia**
+
+Recuerda: el suplemento **complementa** tu alimentacion, no la reemplaza.
+
+## Error comun al comprar
+
+- Elegir solo por marketing, sin revisar etiqueta nutricional.
+- Cambiar producto cada semana y no evaluar tolerancia real.
+- No alinear compra con tu presupuesto mensual.
+
+Para complementar este tema, revisa [proteina whey: cuando tomarla para mejores resultados](/blog/proteina-whey-cuando-tomarla/).
+
+## Conclusión
+
+La mejor proteina no es la mas costosa; es la que te permite cumplir tu meta diaria con comodidad y consistencia.
+
+### CTA
+
+Si quieres empezar hoy con una opcion facil y rapida, mira [desayuno alto en proteina en 10 minutos](/blog/desayuno-alto-en-proteina-en-10-minutos/).

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Creatina en ayunas: guia rapida</title>
+  <desc id="desc">Infografia con dosis diaria recomendada y decision entre tomar creatina en ayunas o con comida.</desc>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#111827" stroke="#22d3ee"/>
+  <text x="80" y="120" fill="#22d3ee" font-size="44" font-family="Arial, sans-serif" font-weight="700">Creatina en ayunas: mitos y realidad</text>
+  <text x="80" y="170" fill="#e5e7eb" font-size="28" font-family="Arial, sans-serif">La clave no es la hora, es la constancia diaria</text>
+  <text x="80" y="250" fill="#a7f3d0" font-size="32" font-family="Arial, sans-serif" font-weight="700">Dosis base:</text>
+  <text x="260" y="250" fill="#ffffff" font-size="32" font-family="Arial, sans-serif">3 a 5 g todos los dias</text>
+  <text x="80" y="320" fill="#93c5fd" font-size="26" font-family="Arial, sans-serif">✓ En ayunas si te cae bien</text>
+  <text x="80" y="365" fill="#93c5fd" font-size="26" font-family="Arial, sans-serif">✓ Con comida si tienes sensibilidad digestiva</text>
+  <text x="80" y="410" fill="#93c5fd" font-size="26" font-family="Arial, sans-serif">✓ Evalua resultados en 3 a 4 semanas</text>
+  <text x="80" y="505" fill="#fcd34d" font-size="24" font-family="Arial, sans-serif">Mi Proteina Blog • Rendimiento basado en habitos</text>
+</svg>
