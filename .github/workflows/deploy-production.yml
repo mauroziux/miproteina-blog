@@ -4,9 +4,14 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      publish_preview:
+        description: Publish an isolated preview to Pablo's Cloudflare Pages account
+        type: boolean
+        default: false
 
 concurrency:
-  group: build-verification
+  group: build-verification-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
@@ -32,3 +37,37 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      - name: Save preview artifact
+        if: github.event_name == 'workflow_dispatch' && inputs.publish_preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: pages-preview
+          path: dist/
+          if-no-files-found: error
+          retention-days: 1
+
+  preview:
+    name: Publish Pablo Pages preview
+    if: github.event_name == 'workflow_dispatch' && inputs.publish_preview
+    needs: build
+    runs-on: ubuntu-latest
+    environment: pages-pablo-preview
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: pages-preview
+          path: dist/
+
+      - name: Publish preview only
+        env:
+          CLOUDFLARE_ACCOUNT_ID: 6f70717090539b93c80cbcd3d2709a4e
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_PAGES_PREVIEW_TOKEN }}
+        run: |
+          test -n "$CLOUDFLARE_API_TOKEN"
+          npx --yes wrangler@4.168.0 pages deploy dist/ \
+            --project-name=miproteina-blog --branch=ci-preview
