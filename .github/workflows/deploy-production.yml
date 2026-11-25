@@ -1,34 +1,74 @@
-name: Build Verification
+name: Deploy to Pablo's Pages
 
 on:
   push:
     branches: [main]
-  workflow_dispatch:
+  pull_request:
+    branches: [main]
 
 concurrency:
-  group: build-verification
-  cancel-in-progress: true
+  group: pablo-pages-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: read
 
 jobs:
   build:
-    name: Verify Build
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Save site and revision
+        if: github.event_name == 'push'
+        run: |
+          test -s dist/index.html
+          printf '%s\n' "$GITHUB_SHA" > dist/__deploy_sha.txt
+      - uses: actions/upload-artifact@v4
+        if: github.event_name == 'push'
+        with:
+          name: pages
+          path: dist/
+          if-no-files-found: error
+          retention-days: 1
 
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build
-        run: npm run build
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment: pages-pablo
+    steps:
+      - name: Confirm current main revision
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: test "$(gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/main" --jq .object.sha)" = "$GITHUB_SHA"
+      - uses: actions/download-artifact@v4
+        with:
+          name: pages
+          path: dist/
+      - uses: cloudflare/wrangler-action@v3
+        id: publish
+        with:
+          apiToken: ${{ secrets.PABLO_PAGES_TOKEN }}
+          accountId: 6f70717090539b93c80cbcd3d2709a4e
+          wranglerVersion: '4.168.0'
+          command: pages deploy dist --project-name=miproteina-blog --branch=main --commit-hash=${{ github.sha }}
+      - name: Verify deployed revision
+        env:
+          DEPLOYMENT_URL: ${{ steps.publish.outputs.deployment-url }}
+        run: |
+          [[ "$DEPLOYMENT_URL" =~ ^https://[a-z0-9-]+\.miproteina-blog-82f\.pages\.dev/?$ ]]
+          for site in "${DEPLOYMENT_URL%/}" https://miproteina-blog-82f.pages.dev; do
+            curl -fsS --retry 8 --retry-all-errors --retry-delay 5 --max-time 15 -o /dev/null "$site/"
+            for attempt in {1..12}; do
+              if [[ "$(curl -fsS --max-time 15 "$site/__deploy_sha.txt?rev=$GITHUB_SHA")" == "$GITHUB_SHA" ]]; then break; fi
+              [[ $attempt != 12 ]] || exit 1
+              sleep 5
+            done
+          done
+          printf 'Deployed `%s` to %s\n' "$GITHUB_SHA" "$DEPLOYMENT_URL" >> "$GITHUB_STEP_SUMMARY"
